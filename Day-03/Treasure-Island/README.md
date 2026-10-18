@@ -15,9 +15,6 @@ A text-based adventure game built using Python conditionals.
 - `input()` and `print()`
 - String methods such as `.lower()`
 
-## Flowchart
-
-![Treasure Island Game Flowchart](flowchart.png)
 
 ## Language
 Python
