@@ -1,4 +1,4 @@
-# Day 4 - Treasure Island 🏝️
+# Day 3 - Treasure Island 🏝️
 
 ## About
 A text-based adventure game built using Python conditionals.
